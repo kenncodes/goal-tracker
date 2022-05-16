@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color:blue;
+  }
+.navlist {
+  background-color: green;
+  display: flex;
+  list-style-type: none;
+  
+}
+.navItem{
+    padding:10px;
+    list-style-type: none;
+    font-size: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+

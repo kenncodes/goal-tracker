@@ -1,10 +1,15 @@
 .navbar {
     display: flex;
     justify-content: space-between;
-    background-color:blue;
+    background-color:rgb(236, 119, 23);
+   
+    
+  }
+  h1{
+    color: white;
+    padding:0px;
   }
 .navlist {
-  background-color: green;
   display: flex;
   list-style-type: none;
   

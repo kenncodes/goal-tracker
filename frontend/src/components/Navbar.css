@@ -1,6 +1,4 @@
 .navbar {
-    display: flex;
-    justify-content: space-between;
     background-color:rgb(236, 119, 23);
    
     
@@ -22,3 +20,7 @@
     list-style: none;
 }
 
+#title{
+  color:aliceblue;
+  margin-left: 10px;
+}

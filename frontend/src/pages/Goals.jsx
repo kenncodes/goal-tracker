@@ -8,7 +8,6 @@ const Goals = () => {
   const [goals, setGoals] = useState(data);
   return (
     <div>
-      <h2>Goal</h2>
      <GoalList goals={goals}/>
     </div>
   );

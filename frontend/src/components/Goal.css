@@ -13,7 +13,14 @@
    line-height: 20px;
    padding-bottom: 5px;
 }
-.h1{
+.h2{
    line-height: 20px;
    padding-bottom: 5px;
+}
+
+.badgeArea{
+   padding: 12px;
+   border-top:2px solid gray;
+   border-bottom: 2px solid gray;
+   cursor:pointer;
 }
